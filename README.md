@@ -10,4 +10,4 @@ https://github.com/Orchanyne
 
 ### Final render :
 
-![alt text](https://github.com/Orchanyne/SKY-IUT/intro.png)
+![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/intro.png)
