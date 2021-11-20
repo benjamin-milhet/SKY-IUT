@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="skyiut"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0"/>
+    </RunParams>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="skyiut.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitrace.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitRace"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unitpage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitPage"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitpersonnage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitPersonnage"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitsquelette.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitSquelette"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unitequipement.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitEquipement"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unitquete.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitQuete"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unitcombat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitCombat"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unitinventaire.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitInventaire"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unitmagasin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitMagasin"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unitalchimiste.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitAlchimiste"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unitForge.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="unitheure.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitHeure"/>
+      </Unit12>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="skyiut"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

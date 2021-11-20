@@ -1,0 +1,347 @@
+ascii art club <https://asciiart.club/>
+
+  * gallery <#gallery>
+  * faq <https://asciiart.club/faq.php>
+  * links <https://asciiart.club/links.php>
+
+
+  ASCII Art Generator
+
+ASCII is EASY! Just drag and drop below to convert a picture to text.
+Easily save and share your creations with others! See what you can create.
+
+Do you use online forums? Do you want to make your signature more
+interesting with some color ascii art? It's never been easier.
+
+Drop your picture below (or click to browse), and then customize, and
+even share your artwork with one click!
+
+
+      Load Image
+
+Drag and drop an image file here, or Select File:
+
+Your images are never uploaded to our server (your browser runs the
+ascii generator), but you can choose to share your ascii art. If page
+appears to freeze, please be patient.
+
+ascii art image <#gallery>
+
+
+    Fine Tuning
+
+
+      Image Setup:
+
+<#>
+
+
+      Text Preview:
+
+                                   
+
+                  ,))()            
+               N#M##RKR            
+             ,$#KM#@N#RW##         
+           t#RE N@R#NN#KWRm        
+           ####M@NNRNpN#@WE#       
+           ########RRWR###RO       
+          .#N#####R#MRN##NE#       
+   jppp ^~f#NNE######N#R###NMm     
+  "NWW##$  N#@K####B#KNN#O#RN#     
+ .a#N@NNp-"TX###NRRK##M### Y#ME    
+   !T7=MMM    EN########NN,.^R#,   
+             (w@##########E-TNM"   
+             ######R"######        
+             N#####.:######b       
+             .####E  "####=        
+             ##N#E    ##M#M        
+            (####E    #####        
+            #####     ^###E        
+            ####       ###         
+            ###=       j##N,       
+           #R##         MM#Q#m     
+           E###            .       
+           .""                     
+
+                                   
+
+Shading Sharpness
+<#>
+
+Monochrome Colorized
+<#>
+
+Blackpoint Whitepoint
+<#><#>
+Change Size
+
+Change Text
+
+Change Colors
+
+
+
+Regenerate
+
+
+    Saving and sharing options:
+
+
+      Image (for easy sharing)
+
+ 
+Right-click (or long-press) above image to "Save As..."
+Or, share online using imgur! Just give it a title:
+Share! <#>
+Submit to Gallery (optional)
+
+
+      BBCode (for online forums)
+
+[size=9px][font=monospace]                                   
+                  ,))()                            N#M##RKR            
+             ,$#KM#@N#RW##                     t#RE N@R#NN#KWRm        
+           ####M@NNRNpN#@WE#                   ########RRWR###RO       
+          .#N#####R#MRN##NE#           jppp ^~f#NNE######N#R###NMm     
+  "NWW##$  N#@K####B#KNN#O#RN#       .a#N@NNp-"TX###NRRK##M### Y#ME    
+   !T7=MMM    EN########NN,.^R#,                 (w@##########E-TNM"   
+             ######R"######                      N#####.:######b       
+             .####E  "####=                      ##N#E    ##M#M        
+            (####E    #####                     #####     ^###E        
+            ####       ###                      ###=       j##N,       
+           #R##         MM#Q#m                 E###            .       
+           .""                                                         
+[/font][/size]
+Character count: 940. To copy a selection, press Ctrl+C, or long-press
+for menu on mobile.
+
+
+      Markdown (Reddit)
+
+No color possible, but works in most subbreddits.
+
+,))() N#M##RKR ,$#KM#@N#RW## t#RE N@R#NN#KWRm ####M@NNRNpN#@WE#
+########RRWR###RO .#N#####R#MRN##NE# jppp ^~f#NNE######N#R###NMm "NWW##$
+N#@K####B#KNN#O#RN# .a#N@NNp-"TX###NRRK##M### Y#ME !T7=MMM
+EN########NN,.^R#, (w@##########E-TNM" ######R"###### N#####.:######b
+.####E "####= ##N#E ##M#M (####E ##### ##### ^###E #### ### ###= j##N,
+#R## MM#Q#m E### . ."" --- ^[ [^ascii ^art
+^generator](http://asciiart.club) ^]
+
+
+      HTML (for web/office publishing)
+
+<!DOCTYPE html><head><meta charset="utf-8"></head><body style="font: 9px
+monospace; line-height:9px;
+background-color:white;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,))()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N#M##RKR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,$#KM#@N#RW##&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t#RE&nbsp;N@R#NN#KWRm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;####M@NNRNpN#@WE#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;########RRWR###RO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.#N#####R#MRN##NE#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;jppp&nbsp;^~f#NNE######N#R###NMm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;"NWW##$&nbsp;&nbsp;N#@K####B#KNN#O#RN#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;.a#N@NNp-"TX###NRRK##M###&nbsp;Y#ME&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;!T7=MMM&nbsp;&nbsp;&nbsp;&nbsp;EN########NN,.^R#,&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(w@##########E-TNM"&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;######R"######&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N#####.:######b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.####E&nbsp;&nbsp;"####=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##N#E&nbsp;&nbsp;&nbsp;&nbsp;##M#M&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(####E&nbsp;&nbsp;&nbsp;&nbsp;#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^###E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;###=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j##N,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#R##&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MM#Q#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E###&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.""&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></body></html>
+Character count: 3870
+
+
+    Ambiance
+
+Too quiet? We made some tunes for you. Feel free to have a listen while
+you do your thing.
+
+
+    Gallery
+
+This is a lightly currated collection of pictures converted to text with
+this ASCII art generator. <https://asciiart.club/> When you use the
+/Share/ button to share your ascii art pictures, check "Submit to
+Gallery" and you might <https://asciiart.club/faq.php#gallery> find
+yours featured here, too!
+
+
+    Photos
+
+ASCII art - ascii art <https://asciiart.club/view.php?art=SMevL60>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=Fh5Wqmv>
+*ASCII art*
+опять двойка - ascii art <https://asciiart.club/view.php?art=oVRMABS>
+*опять двойка*
+ASCII art - ascii art <https://asciiart.club/view.php?art=hT1oH2c>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=6OphJkC>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=7f5eARg>
+*ASCII art*
+Baby - ascii art <https://asciiart.club/view.php?art=5oZ7PhH>
+*Baby*
+Flute Player - ascii art <https://asciiart.club/view.php?art=SU6Qsp5>
+*Flute Player*
+Jack-A-Dreams - ascii art <https://asciiart.club/view.php?art=leNeh25>
+*Jack-A-Dreams*
+ASCII art - ascii art <https://asciiart.club/view.php?art=U6uQytC>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=Yo8VNFe>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=3CH1vy9>
+*ASCII art*
+Load more Photos!
+
+
+    Graphics
+
+ASCII art - ascii art <https://asciiart.club/view.php?art=v2z58yh>
+*ASCII art*
+freecandy - ascii art <https://asciiart.club/view.php?art=ENvYL72>
+*freecandy*
+ASCII art - ascii art <https://asciiart.club/view.php?art=MFGgUWM>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=O27zKKd>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=czYqsli>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=14uFqUO>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=wL8bidq>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=BXJn9Uw>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=4ecsBuZ>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=3iRmnM8>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=8ZObyLe>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=wpJ6jkv>
+*ASCII art*
+Load more Graphics!
+
+
+    Selfies
+
+ASCII art - ascii art <https://asciiart.club/view.php?art=SVI9awv>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=12KRR31>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=nXaLlNE>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=rqsoeqm>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=AD1GYBF>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=UPhKyBX>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=ak6Ab9L>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=Lk2Vib1>
+*ASCII art*
+bisous - ascii art <https://asciiart.club/view.php?art=LYGdc3k>
+*bisous*
+ASCII art - ascii art <https://asciiart.club/view.php?art=RRFAFNr>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=WR1zQWm>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=7DjbEEo>
+*ASCII art*
+Load more Selfies!
+
+
+    Artwork
+
+ASCII art - ascii art <https://asciiart.club/view.php?art=Ht13UrO>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=I3aI4kK>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=oZPE6jb>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=8f0znFF>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=jbh3nMQ>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=LjognLz>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=y2dcdXP>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=tWBEo3T>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=kMUKDm0>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=ZTtuMVR>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=H7zKb9x>
+*ASCII art*
+ASCII art - ascii art <https://asciiart.club/view.php?art=hUUJ6S9>
+*ASCII art*
+Load more Artwork!
+
+
+    Join the club!
+
+Support Me on Ko-fi <https://ko-fi.com/Z8Z8OZN5>
+Follow @asciiartclub <https://twitter.com/asciiartclub>
+
+Namecheap.com <http://www.namecheap.com/?aff=88673>
+
+/There's only one faucet that stands out from the rest./
+
+*freebitco.in
+<https://freebitco.in/?r=707860>*<https://freebitco.in/?r=707860>
+
+<https://freebitco.in/?r=707860>
+<https://freebitco.in/?r=707860>
+<https://freebitco.in/?r=707860>
+<https://freebitco.in/?r=707860>
+
+
+<https://freebitco.in/?r=707860>
+<https://freebitco.in/?r=707860>
+
+*This site is provided as a courtesy by *
+<https://freebitco.in/?r=707860>*rightway.marketing
+<https://rightway.marketing/>.*
+
+Amazing value in web services. Insanely fast servers. Have a look.
+
+Use of this website is subject to the Terms and Conditions of Use
+<https://asciiart.club/Terms%20of%20Use.htm>.
+
+Grid Size
+close
+
+Signature (120 x 4 chars)
+Tag (80 x 30 chars)
+Post (100 x 50 chars)
+Letter (200 x 100 chars)
+HD Wallpaper (300 x 78 chars)
+T-shirt (412 x 108 chars)
+Poster (600 x 310 chars)
+Custom: X
+
+Note: Letter size and larger may take a long time to regenerate. Fine
+tune your work at smaller sizes first.
+
+Screen Mode
+close
+
+White on Black
+Black on White
+Retro/16 Colors
+
+Character Set
+close
+
+Ascii Only
+Extended Character Set
+All Box Shapes
+Block Style
+Force Monospace
+Outline Shapes
+Slashes & Dashes
+Oldskool/Amiga
+Braille (BETA)
+Hebrew (BETA)
+Greek (BETA)
+Hangul (BETA)
+Shift-JIS (BETA)
+Custom:
+
+Processing
+close
+
+Working, please wait...
+
+
