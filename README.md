@@ -1,6 +1,6 @@
 # SKY-IUT
 
-First project in my study. SKY-IUT a video game based on the famous games SKYRIM.
+First project in my study. SKY-IUT is a video game based on the famous games SKYRIM.
 
 ## Contributors
 
