@@ -10,8 +10,6 @@ https://github.com/Orchanyne
 
 ### Final render :
 
-![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/intro.png)
-
 This the menu of our game, you can start the game or load a save. 
 ![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/menu.png)
 
