@@ -12,10 +12,10 @@ https://github.com/Orchanyne
 
 ![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/intro.png)
 
-![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/intro.png)
-
 ![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/menu.png)
 
 ![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/hero.png)
 
 ![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/carte.png)
+
+![alt text](https://github.com/Orchanyne/SKY-IUT/blob/main/boutique.png)
