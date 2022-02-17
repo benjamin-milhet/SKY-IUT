@@ -1,6 +1,6 @@
 # SKY-IUT
 
-First project in my study. SKY-IUT is a video game based on the famous games SKYRIM. The goal of this project is to work in group in our first IT project. 
+First project in my study. SKY-IUT is a video game based on the famous games SKYRIM. The goal of this project is to work in group in our first IT project and to introduce the concept of OOP.
 
 ## Contributors
 
